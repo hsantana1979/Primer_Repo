@@ -23,3 +23,5 @@ static void Saludar(string nombre)
 {
     Console.WriteLine("Hola "+ nombre);
 }
+// See https://aka.ms/new-console-template for more information
+Console.Clear();
